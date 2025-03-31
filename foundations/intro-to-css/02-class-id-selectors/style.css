@@ -1,0 +1,9 @@
+p {
+    background-color: #FFA6A7;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+div#first {
+    color: blue;
+    font-size: 36px;
+}
